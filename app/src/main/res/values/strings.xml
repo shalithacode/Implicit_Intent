@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Implicit_Intent</string>
+    <string name="btn">Gmain</string>
 </resources>
